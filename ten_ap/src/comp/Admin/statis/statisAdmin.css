@@ -1,0 +1,21 @@
+.product-statistics-container {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.product-statistics-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.product-statistics-content {
+    font-size: 1.2rem;
+}
+
+.loading-text {
+    font-style: italic;
+    color: #777;
+}
